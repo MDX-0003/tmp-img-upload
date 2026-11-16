@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "20261116_105934",
+    "source_run_dir":  "E:\\Programs\\UE Project\\ProjectSplat\\Saved\\RenderTests\\tmp_sides0\\visual\\20261116_105934",
+    "trajectory":  "tmp_sides0",
+    "profile":  "visual",
+    "image":  "contact_sheet.jpg",
+    "sha256":  "8E0DCB61D25FE084180F9E307B0770C5E03231710973A36C4DE0F885BD205908",
+    "width":  1600,
+    "height":  305,
+    "screen_percentage":  100,
+    "render_width":  1782,
+    "render_height":  775,
+    "screenshot_count":  4,
+    "created_at":  "2026-11-16T11:00:03.8495209+08:00"
+}
