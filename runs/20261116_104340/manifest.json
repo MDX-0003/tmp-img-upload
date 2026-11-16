@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "20261116_104340",
+    "source_run_dir":  "E:\\Programs\\UE Project\\ProjectSplat\\Saved\\RenderTests\\s1_straight\\visual\\20261116_104340",
+    "trajectory":  "s1_straight",
+    "profile":  "visual",
+    "image":  "contact_sheet.jpg",
+    "sha256":  "602FDEEC3F5600B05A2440F65A53AFA06CCD3224EE3E31ADD4DC2224A6225DFA",
+    "width":  1600,
+    "height":  984,
+    "screen_percentage":  100,
+    "render_width":  1782,
+    "render_height":  775,
+    "screenshot_count":  20,
+    "created_at":  "2026-11-16T10:44:09.4319270+08:00"
+}
