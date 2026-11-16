@@ -1,0 +1,12 @@
+﻿{
+    "run_id":  "20261116_100207",
+    "trajectory":  "s1_straight",
+    "profile":  "visual",
+    "image":  "contact_sheet.jpg",
+    "source":  "Saved/RenderTests/s1_straight/visual/20261116_100207/reports/contact_sheet.jpg",
+    "sha256":  "5F28B4BD56E236009441FA3988DB33B774077F1CE97B2B8B78F62E226A52CFD7",
+    "width":  1600,
+    "height":  984,
+    "created_at":  "2026-11-16T10:36:20.9593968+08:00",
+    "note":  "S1 stub; camera too close to the roof; next is bounds/Survey."
+}
