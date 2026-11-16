@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "20261116_105709",
+    "source_run_dir":  "E:\\Programs\\UE Project\\ProjectSplat\\Saved\\RenderTests\\tmp_cam0\\visual\\20261116_105709",
+    "trajectory":  "tmp_cam0",
+    "profile":  "visual",
+    "image":  "contact_sheet.jpg",
+    "sha256":  "56E03CC2A0A345C30D3D7431B8B579540175270981870BA679C1CFB3898325F6",
+    "width":  1600,
+    "height":  305,
+    "screen_percentage":  100,
+    "render_width":  1782,
+    "render_height":  775,
+    "screenshot_count":  2,
+    "created_at":  "2026-11-16T10:57:34.6191901+08:00"
+}
