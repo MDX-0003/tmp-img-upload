@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "20261116_110342",
+    "source_run_dir":  "E:\\Programs\\UE Project\\ProjectSplat\\Saved\\RenderTests\\tmp_orbit2\\visual\\20261116_110342",
+    "trajectory":  "tmp_orbit2",
+    "profile":  "visual",
+    "image":  "contact_sheet.jpg",
+    "sha256":  "5F16EE702A066315767AEE7BB2B1FBA2855BE88FCC6B342AAEF4D39F2096F557",
+    "width":  1600,
+    "height":  984,
+    "screen_percentage":  100,
+    "render_width":  1782,
+    "render_height":  775,
+    "screenshot_count":  21,
+    "created_at":  "2026-11-16T11:04:12.0507985+08:00"
+}
