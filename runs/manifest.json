@@ -1,0 +1,15 @@
+﻿{
+    "run_id":  "",
+    "source_run_dir":  "",
+    "trajectory":  null,
+    "profile":  null,
+    "image":  "contact_sheet.jpg",
+    "sha256":  null,
+    "width":  0,
+    "height":  0,
+    "screen_percentage":  null,
+    "render_width":  null,
+    "render_height":  null,
+    "screenshot_count":  null,
+    "created_at":  "2026-11-16T16:30:12.3427149+08:00"
+}
